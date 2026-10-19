@@ -1,0 +1,5 @@
+util\HibernateUtil.class
+dao\IProduitDao.class
+presentation\PresentationHibernate.class
+dao\ProduitDaoImpl.class
+entities\Produit.class
